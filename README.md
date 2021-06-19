@@ -37,4 +37,4 @@ And you are good to go.
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
-project Developed by DHRUVAL PATEL
+                                                           project Developed by DHRUVAL PATEL
